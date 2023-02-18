@@ -11,6 +11,7 @@
 @import "base/logo";
 @import "base/_icons";
 @import "base/_tags";
+@import "base/hamburger";
 
 
 
@@ -18,6 +19,7 @@
 @import "layouts/container";
 @import "layouts/header";
 @import "layouts/colums";
+@import "layouts/footer";
 
 
 // ---COMPONENTS---
@@ -26,3 +28,4 @@
 @import "components/navigation";
 @import "components/tools";
 @import "components/strategies";
+@import "components/about-us";
